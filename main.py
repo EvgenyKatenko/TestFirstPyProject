@@ -1,6 +1,7 @@
+from mainFuncs import printHelloWorld
+
 def main():
-  print("Hello world!!!")
-  print("Hi again!")
+  printHelloWorld()
 
 if __name__ == "__main__":
   main()
